@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kridlet/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kridlet/bamazon/issues"
+  },
+  "homepage": "https://github.com/kridlet/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^5.0.1",
+    "mysql": "^2.15.0",
+    "npm": "^6.0.0",
+    "prompt": "^1.0.0"
+  }
+}
